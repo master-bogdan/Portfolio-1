@@ -1,4 +1,4 @@
-My first training project
+:smiling_imp: My first training project
 ==============================
 - Simple Pure HTML5 & CSS3 static page
 - Fully responsive
